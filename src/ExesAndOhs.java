@@ -1,8 +1,4 @@
 public class ExesAndOhs {
-// Check to see if a string has the same amount of 'x's and 'o's.
-// The method must return a boolean and be case INSENSITIVE.
-// The string can contain any char.
-//when no 'x' and 'o' is present should return true
     public static void main(String[] args) {
         System.out.println(getXO("ooxx"));
     }
