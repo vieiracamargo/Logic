@@ -1,0 +1,16 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(“÷¦—úÿÿÿÿ8¬õç´€1
+‚
+java:S1319"eThe type of "stops" should be an interface such as "List" rather than the implementation "ArrayList".(ìì¥¢8­õç´€1
+‡
+java:S1319""eThe type of "stops" should be an interface such as "List" rather than the implementation "ArrayList".(¢Şƒøÿÿÿÿ8­õç´€1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ãî 8¼õç´€1
+\
+java:S1128"@Remove this unused import 'javax.management.MBeanAttributeInfo'.(Ñ£8¾õç´€1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¿õç´€1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¿õç´€1
+Y
+java:S1128"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ8¿õç´€1
